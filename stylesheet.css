@@ -1,0 +1,39 @@
+
+.header{
+  font-family:"Yu Gothic";
+background-color: lightpink;
+}
+.header p {
+  width :100%;
+}
+span{
+  font-size: smaller;
+  color: black;
+}
+.main{
+  background-color: blanchedalmond;
+  
+}
+a {
+  display: inline;
+}
+.fan {
+  float: left;
+}
+.main img {
+  float: left;
+}
+ hr {
+    clear: both;
+    margin-top: 10px;
+   height: 1px;
+   border: none;
+  background-color:black;
+  size: 10px;
+ 
+  
+
+}
+.gazou{
+  width : 100%;
+}
